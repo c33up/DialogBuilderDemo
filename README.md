@@ -1,0 +1,4 @@
+# DialogBuilderDemo
+学习Builder设计模式的Demo.
+使用DialogFiagment创建Dialog,使用Builder设计模式进行创建
+代码很不规范，但是总算会用Builder设计模式了
